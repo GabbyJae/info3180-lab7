@@ -13,7 +13,7 @@ Vue.component('app-header', {
             <router-link class="nav-link" to="/">Home <span class="sr-only">(current)</span></router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/api/upload">Upload</router-link>
+            <router-link class="nav-link" to="/upload">Upload</router-link>
           </li>
         </ul>
       </div>
